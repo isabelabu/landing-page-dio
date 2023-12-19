@@ -16,6 +16,8 @@ p{
 
 .banner{
     padding: 60px 300px 0 300px;
+    border-bottom: 1px solid #33A8DB;
+    padding-bottom: 75px;
     background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url('../images/banner.png');
 }
 
@@ -119,6 +121,7 @@ section{
     background-size: cover;
     padding-left: 150px;
     padding-top: 120px;
+    border: 1px solid #33A8DB;
 }
 
 #transform-world p{
